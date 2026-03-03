@@ -13,7 +13,8 @@ Event Viewer
 
 wevtutil.exe
 Get-WinEvent (PowerShell)
-
+xpath queries 
+events id
 
 
 
